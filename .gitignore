@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 config.ini
+/outputdir
+DiaryNotes_sample_Mar28.csv
+DiaryNotes_sample_Mar28.xlsx
